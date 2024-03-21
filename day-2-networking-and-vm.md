@@ -4,4 +4,4 @@
    CIDR Block : 192.168.1.xxx/24;
    Subnet : 255.255.255.0;
    Gateway : 192.168.1.1 (Gunakan app.diagrams.net untuk membuat diagramnya, referensi gambar sudah disertakan)
-4. Buat step-by-step untuk menginstall Virtual Machine
+4. Buat step-by-step untuk menginstall Virtual Machine [https://docs.google.com/document/d/1eiJ9ve-fQqevUyCMCGWXV01Cq-kOAq3LogaooPSLHlM/edit?usp=sharing]
