@@ -6,3 +6,4 @@
    Gateway : 192.168.1.1 (Gunakan app.diagrams.net untuk membuat diagramnya, referensi gambar sudah disertakan)
    [https://docs.google.com/document/d/1V5rGZrX0koagQxAQ-OLmdfb74Co6QScRLyob1ETzJ1M/edit?usp=sharing]
 4. Buat step-by-step untuk menginstall Virtual Machine [https://docs.google.com/document/d/1eiJ9ve-fQqevUyCMCGWXV01Cq-kOAq3LogaooPSLHlM/edit?usp=sharing]
+![001](https://github.com/nisyasintawana/devops20-dumbways-nisya/assets/53333961/8cadb709-74b2-4c71-a1ef-06960018c2eb)
